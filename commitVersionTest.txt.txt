@@ -3,4 +3,8 @@
 this line from kyle
 
 
+<<<<<<< HEAD
 3. this line is edited by mamun
+=======
+*****************final check for git pull
+
